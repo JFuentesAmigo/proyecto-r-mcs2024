@@ -1,0 +1,74 @@
+{
+    "sources": [
+        {
+            "ISBN": "978-987-1474-89-9",
+            "annote": "OCLC: 950888112",
+            "author": [
+                {
+                    "family": "Jacoby",
+                    "given": "Roberto"
+                }
+            ],
+            "edition": "1. ed",
+            "id": "jacobyAsaltoCieloFormacion2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "language": "es-ES",
+            "publisher": "Mansalva",
+            "publisher-place": "Buenos Aires",
+            "title": "El asalto al cielo: formación de la teoría revolucionaria de la Comuna de 1871 a Octubre de 1917",
+            "title-short": "El asalto al cielo",
+            "type": "book"
+        },
+        {
+            "annote": "MAG ID: 2592119813 S2ID: a02ae55803532c2121bcf4b6b4bddfa8d24c1a19",
+            "author": [
+                {
+                    "family": "Rábago",
+                    "given": "Joaquín"
+                }
+            ],
+            "id": "rabagoAsaltoCielo1979",
+            "issued": {
+                "date-parts": [
+                    [
+                        1979,
+                        6
+                    ]
+                ]
+            },
+            "title": "El asalto al cielo",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Jacoby",
+                    "given": "Roberto"
+                }
+            ],
+            "edition": "1. ed",
+            "id": "jacoby2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "language": "spa",
+            "note": "OCLC: 950888112",
+            "publisher": "Mansalva",
+            "publisher-place": "Buenos Aires",
+            "title": "El asalto al cielo: formación de la teoría revolucionaria de la Comuna de 1871 a Octubre de 1917",
+            "title-short": "El asalto al cielo",
+            "type": "book"
+        }
+    ],
+    "project_biblios": []
+}
